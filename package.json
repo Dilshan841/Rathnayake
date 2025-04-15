@@ -3,7 +3,7 @@
     "main": "./itxxwasi.js",
   "engines" : { 
     "npm" : ">=11.3.0",
-    "node" : ">=23.0.0"
+    "node" : ">=23.11.0"
     },
     "scripts": {
     "start": "node itxxwasi.js"
